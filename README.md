@@ -9,4 +9,4 @@ Mit einem Mikrofon wollen wir den Schallpegel messen und in drei verschiedenen S
 Pfadfinderinnen und Pfadfinder
 
 
-http://dev-blog.vcp.de/laermampel-teil-2-einfache-laermampel/
+<!--http://dev-blog.vcp.de/laermampel-teil-2-einfache-laermampel/-->
